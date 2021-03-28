@@ -589,7 +589,7 @@ select {
 .seller {
 	width: 100%;
 	height: 42rem;
-	background: url('/assets/img/seller.jpg');
+	background: url('../img/seller.jpg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -684,7 +684,7 @@ select {
 /* Counting */
 .counting {
 	min-height: 27.2rem;
-	background-image: url('/assets/img/counting.jpg');
+	background-image: url('../img/counting.jpg');
 	width: 100%;
 	background-size: cover;
 	background-position: 50% 30%;
